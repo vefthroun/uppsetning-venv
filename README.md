@@ -7,7 +7,7 @@
 
 - Step 1: Install Virtual Environment. 
   * PC: `python -m venv .venv` 
-  * Mac/Linux: `python3 -m venv .venv`
+  * Mac/Linux: `python3 -m venv venv`
 - Step 2: Create an Environment. `cd .venv\Scripts\`
 - Step 3: Activate the Environment. `activate`
   * ![activate venv](activate-venv.jpg)
